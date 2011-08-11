@@ -4,6 +4,18 @@
 Sit back, relax and enjoy Google Maps with your nice and shiny Samsung TV. ;)
 Anyway, it's a small app I've made to learn a bit about the Samsung Smart SDK.
 
+
+## Installation
+1. Clone repo to (usually) C:\Program Files (x86)\Samsung\Samsung TV SDK(2.5.0)\Apps\google_maps_samsung_tv
+2. Run emulator
+3. Click "Open App"
+4. Choose google_maps_samsung_tv
+
+## User Manual
+* arrows - move around
+* volume +/- - zoom in/out
+* channel +/- - switch map type
+
 ## Issues
 It seems MAPLE browser has issues with Google Maps v3 when too much zooming is done.
 
