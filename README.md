@@ -4,6 +4,8 @@
 Sit back, relax and enjoy Google Maps with your nice and shiny Samsung TV. ;)
 Anyway, it's a small app I've made to learn a bit about the Samsung Smart SDK.
 
+## Demo
+http://vimeo.com/27578957
 
 ## Installation
 0. Install Samsung Smart SDK: http://www.samsungdforum.com/ → Apps Guide → Download SDK
