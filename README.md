@@ -17,7 +17,7 @@ Anyway, it's a small app I've made to learn a bit about the Samsung Smart SDK.
 * channel +/- - switch map type
 
 ## Issues
-It seems MAPLE browser has issues with Google Maps v3 when too much zooming is done.
+It seems that MAPLE browser has issues with Google Maps v3 after a while.
 
 ## GitHub
 http://github.com/amberbit/google_maps_samsung_tv
