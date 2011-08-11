@@ -6,6 +6,7 @@ Anyway, it's a small app I've made to learn a bit about the Samsung Smart SDK.
 
 
 ## Installation
+0. Install Samsung Smart SDK: http://www.samsungdforum.com/ → Apps Guide → Download SDK
 1. Clone repo to (usually) C:\Program Files (x86)\Samsung\Samsung TV SDK(2.5.0)\Apps\google_maps_samsung_tv
 2. Run emulator
 3. Click "Open App"
