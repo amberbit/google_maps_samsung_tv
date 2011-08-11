@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Google Maps</title>
+
+    <script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/API/Widget.js'></script>
+    <script type='text/javascript' language='javascript' src='$MANAGER_WIDGET/Common/API/TVKeyValue.js'></script>
+
+    <script language="javascript" type="text/javascript" src="javascript/main.js"></script>
+    <script language="javascript" type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&language=en">
+</script>
+
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+  </head>
+
+  <body onload="Main.onLoad();" onunload="Main.onUnload();">
+    <!-- Dummy anchor as focus for key events -->
+    <a href='javascript:void(0);' id='anchor' onkeydown='Main.MainKeyHandler();'></a>
+
+    <div id="map"></div>
+    <p>Current position: <span id="position"></span></p>
+  </body>
+</html>
